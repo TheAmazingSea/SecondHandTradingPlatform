@@ -1,0 +1,10 @@
+# ¶Ë¿ÚºÅ
+server:
+  port: 9090
+# ÅäÖÃmysqlÇı¶¯
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: 121314
+    url: jdbc:mysql://localhost:3306/smushare
